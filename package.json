@@ -79,7 +79,7 @@
     "@angular/cli": "^13.3.6",
     "@angular/compiler-cli": "^13.3.9",
     "@angular/language-service": "^13.3.9",
-    "@pega/configs": "^0.3.4",
+    "@pega/configs": "^0.6.0",
     "@pega/eslint-config": "^0.3.4",
     "@pega/prettier-config": "^0.3.4",
     "@playwright/test": "^1.28.1",
